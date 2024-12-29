@@ -1,6 +1,6 @@
 Roadmap to solve DSA in leetcode:
 https://whimsical.com/zero-to-hero-in-leetcode-WxMBL9v9cbRZKGcbVJuaRN 
-follow above link to see all topics for 3 months journey
+follow this link to see all topics for 3 months journey
 
 
 
